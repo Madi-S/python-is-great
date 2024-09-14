@@ -9,7 +9,7 @@ class MouthlessDog:
 
 
 # Explanation:
-# Use `NotImplementedError` (exception) when method or function is required
+# Use `NotImplementedError` (exception), when method or function is required
 # But not yet written out (implemented), useful in base classes
 # `NotImplemented` it is a special return value, which implies that
 # The behaviour of this function/method is not defined or/and cannot be implemented
